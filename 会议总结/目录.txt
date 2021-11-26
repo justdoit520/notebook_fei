@@ -1,0 +1,4 @@
+2021.9.27笔记：keras笔记、图神经网络、Transformer模型、self-attention。
+
+2021.10.7笔记：tf-gnn-samples中GNN模型、beam search。
+
